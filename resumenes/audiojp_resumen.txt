@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": " es todo. \n\nBueno Andr\u00e9s, entonces quiero ver si con Python puedo mejorar la manera que est\u00e1n haciendo las cosas porque ellos est\u00e1n haciendo puros planillos y no s\u00e9, buscar la forma en que yo pueda mejorar esas cosas y ver como hacerlo a ver si tu me puedes decir como"
+    }
+  ],
+  "created": 1676069572,
+  "id": "cmpl-6iWY8CKLfgWACz4oEUgo4E80kc0zv",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 331,
+    "total_tokens": 431
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": "\n\nMira, mientras est\u00e9 listo y que ma\u00f1ana funcione perfecto a la perfecci\u00f3n, que podamos tener esa base de datos de la gente que ingrese sus correos, eso es lo que al final m\u00e1s importa ya. Dale prioridad tambi\u00e9n a los cambios de la web, ya que hoy d\u00eda se vendi\u00f3 un workshop y la alumna quer\u00eda"
+    }
+  ],
+  "created": 1678147645,
+  "id": "cmpl-6rF9REQfXjCwZrBaITSwwSVdhz2Tx",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 328,
+    "total_tokens": 428
+  }
+}

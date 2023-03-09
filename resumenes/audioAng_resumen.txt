@@ -1,0 +1,19 @@
+{
+  "choices": [
+    {
+      "finish_reason": "length",
+      "index": 0,
+      "logprobs": null,
+      "text": " O sea, para que t\u00fa est\u00e9s al tanto. Ya, un abrazo y gracias. \n\n\u00a1Perfecto! Ya entendimos tu explicaci\u00f3n. Vamos a trabajar en la creaci\u00f3n de una landing page con un formulario s\u00faper simple que tendr\u00e1 nombre, correo electr\u00f3nico y tel\u00e9fono como opci\u00f3n. Esta landing page l"
+    }
+  ],
+  "created": 1677246380,
+  "id": "cmpl-6nSgu3cGMMdr7eKkIUaDZcRNQ0lnV",
+  "model": "text-davinci-003",
+  "object": "text_completion",
+  "usage": {
+    "completion_tokens": 100,
+    "prompt_tokens": 1922,
+    "total_tokens": 2022
+  }
+}
