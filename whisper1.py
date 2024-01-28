@@ -1,7 +1,7 @@
 import openai
 import os
 
-openai.api_key = "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"
+openai.api_key = ""
 
 
 def listening(audioMp3):
